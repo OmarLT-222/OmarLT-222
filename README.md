@@ -68,9 +68,8 @@ Me interesa especialmente el desarrollo de soluciones inteligentes aplicando té
 ## 📫 Conecta conmigo
 
 - 📧 [Correo](mailto:lukach.omar@gmail.com) 
-- 💼 [LinkedIn](https://www.linkedin.com/in/omar-lt/)  
-- 🖥️ [GitHub](https://github.com/OmarLT-222)
-
+- 💼 [LinkedIn](https://www.linkedin.com/in/omar-lt/)
+  
 ---
 
 ¡Gracias por visitar mi perfil! 🚀
